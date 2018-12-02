@@ -70,7 +70,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.tokbox.storm.metrics.Command</mainClass>
+							<mainClass>com.freitas.storm.metrics.Command</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
